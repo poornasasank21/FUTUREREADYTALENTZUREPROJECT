@@ -23,6 +23,8 @@ Contact Us Page:
 Azure deployment:
 ![image](https://user-images.githubusercontent.com/103208320/175765360-284bc6ce-fe14-4b6a-ae3a-b82720778325.png)
 ![image](https://user-images.githubusercontent.com/103208320/175765387-c6e497b4-09df-4d84-8d6b-c49d55f91299.png)
+![image](https://user-images.githubusercontent.com/103208320/175767457-ac8e427b-3a21-4e85-9c8d-435990f3cb65.png)
+
 Git Hub:
 ![image](https://user-images.githubusercontent.com/103208320/175765399-7af8bacc-d8ce-420e-972c-f995a94a32fc.png)
 ![image](https://user-images.githubusercontent.com/103208320/175765406-e032d661-55b2-4e37-8c24-b68d1e29544d.png)
